@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         leftDiceNumber += 1
         rightDiceNumber -= 1
         
-       
+     //anilyadavjnt@gmail.com
         
     }
     
