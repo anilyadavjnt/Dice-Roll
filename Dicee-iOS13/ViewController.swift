@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     
  // Anil Image literal was removed from code completion. But copying and     pasting the following will have the same effect, #imageLiteral(
         
+    // anilyadavjnt
     
     @IBAction func rollButtonPressed(_ sender: UIButton) {
         
@@ -31,7 +32,7 @@ class ViewController: UIViewController {
         leftDiceNumber += 1
         rightDiceNumber -= 1
         
-     //anilyadavjnt@gmail.com
+     
         
     }
     
